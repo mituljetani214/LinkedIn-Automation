@@ -1,0 +1,35 @@
+name: Weekly Career OS
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 4 * * 1"
+
+jobs:
+  generate-weekly-assets:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate content calendar
+        run: python scripts/generate_content_calendar.py
+
+      - name: Generate weekly analytics report
+        run: python scripts/generate_weekly_report.py
+
+      - name: Commit generated drafts
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Generate weekly Career OS drafts"
+          file_pattern: "linkedin/posts/*.md analytics/reports/*.md"
+

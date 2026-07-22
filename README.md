@@ -2,6 +2,8 @@
 
 AI Career OS for Mitul Jetani.
 
+My AI Brain for my profile which understands my whole career path.
+
 This repository is a modular, human-approved system for growing a UI/UX design career through better knowledge management, LinkedIn content, portfolio building, recruiter outreach, research, and analytics.
 
 ## Vision
@@ -56,4 +58,3 @@ python scripts/generate_weekly_report.py
 ## MVP Status
 
 Phase 1 is implemented as a local repository scaffold with starter docs, templates, prompts, agent specs, analytics tracking, and simple generation scripts.
-

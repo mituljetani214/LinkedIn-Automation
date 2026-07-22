@@ -40,16 +40,23 @@ No content should be published automatically. Every LinkedIn post, comment, recr
 ## Quick Start
 
 1. Fill in `career/profile.md`, `career/resume.md`, `career/projects.md`, and `career/metrics.md`.
-2. Use `templates/linkedin-post.md` to draft the first seven posts.
-3. Run the weekly content helper:
+2. For a guided setup, start with `intake/README.md` and complete the career intake forms.
+3. Check whether the intake is ready:
+
+```powershell
+python scripts/check_career_intake.py
+```
+
+4. Use `templates/linkedin-post.md` to draft the first seven posts.
+5. Run the weekly content helper:
 
 ```powershell
 python scripts/generate_content_calendar.py
 ```
 
-4. Review drafts in `linkedin/posts/`.
-5. Add performance numbers to `analytics/linkedin_metrics.csv`.
-6. Generate a weekly analytics report:
+6. Review drafts in `linkedin/posts/`.
+7. Add performance numbers to `analytics/linkedin_metrics.csv`.
+8. Generate a weekly analytics report:
 
 ```powershell
 python scripts/generate_weekly_report.py
@@ -57,4 +64,8 @@ python scripts/generate_weekly_report.py
 
 ## MVP Status
 
-Phase 1 is implemented as a local repository scaffold with starter docs, templates, prompts, agent specs, analytics tracking, and simple generation scripts.
+Phase 1 is implemented as a local repository scaffold with starter docs, templates, prompts, agent specs, analytics tracking, simple generation scripts, and a guided career intake system.
+
+## Current Next Step
+
+Complete Phase 1.5 in `intake/` so the system has enough real career context to generate strong LinkedIn profile copy and content.

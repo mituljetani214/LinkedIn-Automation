@@ -37,6 +37,7 @@ Internet
 
 - Repository structure
 - Career knowledge files
+- Career intake system
 - Agent specifications
 - Prompt library
 - LinkedIn content templates
@@ -52,4 +53,3 @@ Internet
 - Sending recruiter messages without review
 - Storing secrets in the repository
 - Replacing human judgment
-

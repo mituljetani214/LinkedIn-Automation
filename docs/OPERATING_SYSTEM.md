@@ -4,6 +4,8 @@
 
 The `career/` and `knowledge/` folders are the source of truth. Agents should use these files before inventing context.
 
+The `intake/` folder is the staging area for raw or incomplete career information. Once facts are reviewed, move them into `career/` and `knowledge/`.
+
 ## Approval Stages
 
 - `draft` - generated but not reviewed
@@ -36,3 +38,12 @@ Each post should include:
 - No fake metrics
 - No claims that cannot be defended
 
+## Career Intake Rule
+
+Before generating LinkedIn optimization drafts, complete the intake checklist with:
+
+- Master career context
+- At least 2 project examples
+- Current LinkedIn profile text
+- Writing voice examples
+- Known metrics and missing metrics

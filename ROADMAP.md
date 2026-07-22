@@ -4,12 +4,28 @@
 
 Status: In progress
 
+- [x] Career intake system
 - [ ] Resume
 - [ ] Projects
 - [ ] Skills
 - [ ] Metrics
 - [ ] Portfolio links
 - [ ] Writing style
+
+## Phase 1.5: Career Intake To Profile Readiness
+
+Status: In progress
+
+- [x] Master career intake form
+- [x] Project intake template
+- [x] LinkedIn profile intake form
+- [x] Writing voice intake form
+- [x] Intake completeness checker
+- [ ] Complete master intake
+- [ ] Add at least 2 project intake files
+- [ ] Capture current LinkedIn profile text
+- [ ] Capture writing voice examples
+- [ ] Convert intake into career source-of-truth files
 
 ## Phase 2: LinkedIn Optimization
 
@@ -63,4 +79,3 @@ Status: In progress
 - [ ] Best hooks
 - [ ] Best CTAs
 - [ ] Best carousel length
-

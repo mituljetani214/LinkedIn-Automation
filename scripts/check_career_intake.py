@@ -42,7 +42,7 @@ def section_has_content(text: str, marker: str) -> bool:
         return bool(value and value not in PLACEHOLDERS)
 
     remaining = text[index + len(marker):]
-    next_heading = remaining.find("\n##")
+    next_heading = remaining.find("\n## ")
     section = remaining if next_heading == -1 else remaining[:next_heading]
 
     cleaned_lines = [

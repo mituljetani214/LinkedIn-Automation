@@ -14,24 +14,24 @@ Status: In progress
 
 ## Phase 1.5: Career Intake To Profile Readiness
 
-Status: In progress
+Status: Complete
 
 - [x] Master career intake form
 - [x] Project intake template
 - [x] LinkedIn profile intake form
 - [x] Writing voice intake form
 - [x] Intake completeness checker
-- [ ] Complete master intake
-- [ ] Add at least 2 project intake files
-- [ ] Capture current LinkedIn profile text
-- [ ] Capture writing voice examples
-- [ ] Convert intake into career source-of-truth files
+- [x] Complete master intake
+- [x] Add at least 2 project intake files
+- [x] Capture current LinkedIn profile text
+- [x] Capture writing voice examples
+- [x] Convert intake into career source-of-truth files
 
 ## Phase 2: LinkedIn Optimization
 
-- [ ] Headline
-- [ ] About section
-- [ ] Featured section
+- [x] Headline
+- [x] About section
+- [x] Featured section
 - [ ] Experience section
 - [ ] SEO keywords
 - [ ] Creator positioning

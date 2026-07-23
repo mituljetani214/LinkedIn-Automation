@@ -38,14 +38,16 @@ Status: Complete
 
 ## Phase 3: Research Automation
 
-- [ ] Daily research template
-- [ ] Source list
+- [x] Daily research template
+- [x] Source list
 - [ ] Trend tagging
 - [ ] Weekly research digest
 
 ## Phase 4: Content Automation
 
-- [ ] Weekly content calendar
+- [x] Weekly content calendar
+- [x] Human-approved content workflow
+- [x] First 30-day content plan
 - [ ] LinkedIn post drafts
 - [ ] Carousel outlines
 - [ ] Article outlines

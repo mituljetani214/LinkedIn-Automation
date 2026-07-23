@@ -68,4 +68,16 @@ Phase 1 is implemented as a local repository scaffold with starter docs, templat
 
 ## Current Next Step
 
-Complete Phase 1.5 in `intake/` so the system has enough real career context to generate strong LinkedIn profile copy and content.
+The repo is now ready for the content automation phase.
+
+Start here:
+
+- `linkedin/content-system/content-approval-workflow.md`
+- `linkedin/content-system/first-30-day-plan.md`
+- `templates/linkedin-approval-post.md`
+
+Check content pipeline status:
+
+```powershell
+python scripts/content_status_report.py
+```

@@ -1,7 +1,9 @@
 # LinkedIn Profile Optimization
 
-Status: draft ready for review
+Status: profile copy created
 Last updated: 2026-07-23
+
+Paste-ready profile copy now lives in `linkedin/profile/linkedin-profile-copy.md`.
 
 ## Recommended Headline
 
@@ -90,4 +92,3 @@ I share practical lessons on AI-native product design, human-centered AI, design
 - Avoid using "10x revenue" until evidence is clearer.
 - Replace "AI motion" in the current headline with clearer AI product/design keywords.
 - Keep the tone human and practical, not hype-driven.
-

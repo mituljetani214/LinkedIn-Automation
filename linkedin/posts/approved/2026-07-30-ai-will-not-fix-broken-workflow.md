@@ -1,9 +1,9 @@
 # LinkedIn Approval Post
 
-Status: needs_review
+Status: approved
 Created: 2026-07-23
-Scheduled for: 2026-07-24
-Approved by:
+Scheduled for: 2026-07-30 10:00 AM Asia/Calcutta
+Approved by: Mitul Jetani
 Published date:
 LinkedIn URL:
 
@@ -96,4 +96,3 @@ Research first. Design second. AI third.
 - Profile views:
 - Connection requests:
 - Notes:
-

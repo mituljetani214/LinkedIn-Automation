@@ -1,22 +1,24 @@
-# Demo Package: AI will not fix a broken workflow.
+# Approved Package: AI will not fix a broken workflow.
 
-Status: image_review
+Status: packaged
 Created: 2026-07-28
+Packaged: 2026-07-29
+Ready for: 2026-07-30 10:00 AM Asia/Calcutta
 Notion page: https://app.notion.com/p/3a61ac6e1ea781458a4ad7c3905f54d9
-Repo post: linkedin/posts/review/2026-07-24-ai-will-not-fix-broken-workflow.md
-Pending image: assets/linkedin/pending-approval/2026-07-24-ai-will-not-fix-broken-workflow-preview-v1.png
-Cloudinary asset URL:
-Buffer idea ID:
+Repo post: linkedin/posts/approved/2026-07-30-ai-will-not-fix-broken-workflow.md
+Approved image: assets/linkedin/approved/2026-07-30-ai-will-not-fix-broken-workflow-approved.png
+Cloudinary asset URL: https://res.cloudinary.com/yxkladut/image/upload/v1785304820/Linkedin%20Automation/2026-07-30-ai-will-not-fix-broken-workflow-approved.png
+Buffer idea ID: 6a699794bab9a3ad3aef5126
 Buffer post ID:
 
 ## Approval State
 
 - Caption approved in Notion: yes
 - Image generated: yes
-- Image approved: no
-- Uploaded to Cloudinary: no
-- Package ready: no
-- Sent to Buffer: no
+- Image approved: yes
+- Uploaded to Cloudinary: yes
+- Package ready: yes
+- Sent to Buffer: yes, as Buffer idea
 
 ## Approved Caption
 
